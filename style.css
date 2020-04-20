@@ -145,6 +145,7 @@ footer {
   text-align: center;
 }
 
+/*
 #boxes {
   margin: 0 auto;
 }
@@ -185,7 +186,6 @@ footer {
   #box3 {
     /* float: none; */
     /* margin: 0 auto; */
-    /* position: relative; */
-    left: 0%;
-  }
+    /* position: relative; 
 }
+*/
